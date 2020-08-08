@@ -1,0 +1,16 @@
+{
+  "name": "taskboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.729.0",
+    "serverless": "^1.78.1",
+    "serverless-appsync-plugin": "^1.3.1"
+  }
+}
